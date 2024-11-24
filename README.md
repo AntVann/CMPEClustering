@@ -10,7 +10,7 @@ https://colab.research.google.com/drive/1I6DULyXK5OAiOFCgZOrsJQ-ZnTzxK-mT?usp=sh
 https://colab.research.google.com/drive/1o8-shC35adDoCCjvGRQebnonn2apH9bM?usp=sharing
 
 ## d) DB Scan clustering (not from scratch) using pycaret library 
-
+https://colab.research.google.com/drive/1Z3g3vhjZU4egb-ieJG9BGaMWa0eXVsEB?usp=sharing
 
 ## e) Demonstrate anomaly detection using pyOD using any usecase
 
