@@ -13,7 +13,7 @@ https://colab.research.google.com/drive/1o8-shC35adDoCCjvGRQebnonn2apH9bM?usp=sh
 https://colab.research.google.com/drive/1Z3g3vhjZU4egb-ieJG9BGaMWa0eXVsEB?usp=sharing
 
 ## e) Demonstrate anomaly detection using pyOD using any usecase
-
+https://colab.research.google.com/drive/1TGCZ4p7NRdKsiy-RJzSkZBIP-EPJ1F5D?usp=sharing
 
 ## f) Illustrate clustering of timeseries data using pretrained models 
 
