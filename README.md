@@ -4,7 +4,7 @@
 https://colab.research.google.com/drive/1wovnvddxafXsBHvYRyculJTO1Do4pDe7?usp=sharing
 
 ## b) Hierarchical clustering (not from scratch)
-
+https://colab.research.google.com/drive/1I6DULyXK5OAiOFCgZOrsJQ-ZnTzxK-mT?usp=sharing
 
 ## c)Gaussian mixture models clustering (not from scratch)
 
