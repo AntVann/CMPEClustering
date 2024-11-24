@@ -22,6 +22,6 @@ https://colab.research.google.com/drive/1u8whJkyURqEV4_DwTT6eY_Bt5gdTXmdN?usp=sh
 
 
 ## h) Write a colab for clustering with images using imagebind llm embeddings 
-
+https://colab.research.google.com/drive/1JtWbr6K9qXocXRgNf6tmj71MOZ2dTGTP?usp=sharing
 
 ## i) Write a colab for audio embeddings using imagebind llms
