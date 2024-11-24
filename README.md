@@ -1,7 +1,7 @@
 # Anthony Vann CMPE 255 Clustering
 
 ## a) K-Means clustering from scratch 
-
+https://colab.research.google.com/drive/1wovnvddxafXsBHvYRyculJTO1Do4pDe7?usp=sharing
 
 ## b) Hierarchical clustering (not from scratch)
 
