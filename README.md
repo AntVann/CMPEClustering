@@ -6,8 +6,8 @@ https://colab.research.google.com/drive/1wovnvddxafXsBHvYRyculJTO1Do4pDe7?usp=sh
 ## b) Hierarchical clustering (not from scratch)
 https://colab.research.google.com/drive/1I6DULyXK5OAiOFCgZOrsJQ-ZnTzxK-mT?usp=sharing
 
-## c)Gaussian mixture models clustering (not from scratch)
-
+## c) Gaussian mixture models clustering (not from scratch)
+https://colab.research.google.com/drive/1o8-shC35adDoCCjvGRQebnonn2apH9bM?usp=sharing
 
 ## d) DB Scan clustering (not from scratch) using pycaret library 
 
