@@ -16,7 +16,7 @@ https://colab.research.google.com/drive/1Z3g3vhjZU4egb-ieJG9BGaMWa0eXVsEB?usp=sh
 https://colab.research.google.com/drive/1TGCZ4p7NRdKsiy-RJzSkZBIP-EPJ1F5D?usp=sharing
 
 ## f) Illustrate clustering of timeseries data using pretrained models 
-
+https://colab.research.google.com/drive/1u8whJkyURqEV4_DwTT6eY_Bt5gdTXmdN?usp=sharing
 
 ## g) Write a colab to illustrate clustering  of documents. use state of art embeddings (LLM Embeddings)
 
